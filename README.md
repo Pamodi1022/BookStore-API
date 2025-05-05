@@ -57,6 +57,7 @@ Before you get turning pages in the backend, make sure you have:
 * **Java 17** or newer
 * **Maven 3.6** or later
 * **Apache Tomcat 9** or higher
+* **Postman** – API testing and validation
 
 ### 📦 Installation
 
